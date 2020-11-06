@@ -14,7 +14,7 @@ POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
 
 [compat]
 GLPK = "0.10, 0.13"
-JuMP = "0.19"
+JuMP = "0.19, 0.21"
 POMDPLinter = "0.1"
 POMDPModelTools = "0.3.2"
 POMDPPolicies = "0.3.3"
